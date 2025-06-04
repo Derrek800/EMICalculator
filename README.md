@@ -4,6 +4,8 @@ EMI Calculator, Loan EMI Calculator, Loan Calculator, Home Loan EMI Calculator, 
 
 EMI Calculator - Calculate Monthly Installment (EMI) for your loan with Online EMI Calculator. EMI Calculator helps you to calculate yearly & monthly installment amount of your loan.
 
+![image](https://github.com/user-attachments/assets/276fd48b-940d-405e-b513-2d9a7b48ca1a)
+
 What is EMI?
 
 	EMI (Equated Monthly Installment) is the fixed amount a borrower pays to the lender every month to repay the loan over a specified tenure. Each EMI consists of:
